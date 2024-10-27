@@ -1,0 +1,30 @@
+.aside{
+    width:20vw;
+    font-size: large;
+}
+
+.main {
+    display: flex;
+    gap: 50px;
+    position: relative;
+}
+
+.divider {
+    margin-left: 20px;
+    width: 1px; 
+    background-color: black; 
+    height: 100vw; 
+    position: absolute;
+    left: 100px; 
+    top: 0;
+}
+
+.aside button {
+    background-color: #4472C4;
+    color: #ffffff;
+}
+
+.search-bar{
+    padding:20px;
+    margin-left: 200px;
+}
