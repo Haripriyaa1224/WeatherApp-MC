@@ -1,3 +1,3 @@
 Weather App
 
-(Link to App)[https://weather-app-mc.vercel.app/]
+Link: <a href="https://weather-app-mc.vercel.app/">https://weather-app-mc.vercel.app/</a>
