@@ -4,7 +4,7 @@ import './Navbar.css'
 const Navbar = () => {
   return (
     <div>
-        <h3>Weather App</h3>
+        <h3>Haripriyaa's Weather App</h3>
     </div>
   )
 }
