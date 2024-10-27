@@ -1,8 +1,17 @@
-# React + Vite
+<h1>Weather App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link: <a href="https://weather-app-mc.vercel.app/">https://weather-app-mc.vercel.app/</a>
 
-Currently, two official plugins are available:
+<p>Weather app that displays weather details of different cities and allows a User to search for the weather details of a particular town.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>Functionalities</h3>
+
+<ul>
+  <li>Get Weather button is used to fetch details of weather</li>
+  <li>Weather information is fetched and inserted into the table</li>
+  <li>The Description field is a text input and is hence editable by the user</li>
+  <li>Clicking the Delete button will delete the row</li>
+  <li>"Search": The user enters a city name in the search input box and clicks on the Search button. If the city name is present in the Details table, that row is highlighted in yellow color for 3 seconds.</li>
+</ul>
+
+
